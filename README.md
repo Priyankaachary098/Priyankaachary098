@@ -4,8 +4,6 @@
 
 <img src="https://github.com/user-attachments/assets/3274b451-796f-46be-9b7b-4a7066ab6dc0" width="450" align="right">
 
-- 🌱 I’m currently learning **React, Node.js, and MongoDB**
-- 💬 Ask me about **Web Development & JavaScript**
 - 📫 How to reach me **priyankaachary098@gmail.com**
 
 ### Connect with me:
